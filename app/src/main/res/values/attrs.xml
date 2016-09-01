@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FlipDot">
+        <attr name="dotSize" format="dimension"/>
+        <attr name="dotPadding" format="dimension"/>
+        <attr name="widthNum" format="integer"/>
+        <attr name="heightNum" format="integer"/>
+        <attr name="dotDrawable" format="reference"/>
+        <attr name="dotBackDrawable" format="reference"/>
+        <attr name="soundOn" format="boolean"/>
+    </declare-styleable>
+
+</resources>
